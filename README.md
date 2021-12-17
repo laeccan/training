@@ -1,2 +1,2 @@
-# training
+# Training
 Presentation or Training materials
